@@ -1,6 +1,6 @@
 <?php
 
-$xmlUrl = "/api/v1/kmsg";
+$xmlUrl = "/api/v1/kmsg/stub";
 
 $path = getCurrentUri();
 
